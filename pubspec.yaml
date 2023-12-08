@@ -1,0 +1,19 @@
+name: write_virtual_key_codes
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.3.0-174.2.beta
+
+# Add regular dependencies here.
+dependencies:
+  dio: ^5.4.0
+  html: ^0.15.4
+  recase: ^4.1.0
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
+  win32: ^5.1.1
